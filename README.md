@@ -128,7 +128,7 @@ npx nodemon app.js
 
 
 
-## Built with ❤️ by Shivam Juyal
+## Built with ❤️ by Sakshi Mittal
 
 
 ---
